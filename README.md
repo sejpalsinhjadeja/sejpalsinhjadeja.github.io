@@ -1,1 +1,0 @@
-sejpalsinhjadeja.github.io

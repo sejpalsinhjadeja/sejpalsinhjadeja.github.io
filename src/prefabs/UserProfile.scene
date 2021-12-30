@@ -1,0 +1,118 @@
+{
+    "id": "0a1f62df-3b5a-45d6-ae20-3400001008d0",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "32cacbb6-8d0a-4bc8-b425-131a73921839",
+            "label": "UserProfile",
+            "components": [],
+            "list": [
+                {
+                    "type": "Container",
+                    "id": "9b24311e-f63b-459a-b3f7-0ae4519ef7ac",
+                    "label": "RightText",
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 160,
+                    "visible": false,
+                    "list": [
+                        {
+                            "type": "Image",
+                            "id": "601af92c-ea90-48b4-8b0f-cd4d075e75ce",
+                            "label": "nameR",
+                            "components": [],
+                            "texture": {
+                                "key": "Name"
+                            }
+                        },
+                        {
+                            "type": "Text",
+                            "id": "e1bc35a3-95ff-4a62-810e-05c4ee8e180b",
+                            "label": "textR",
+                            "scope": "CLASS",
+                            "components": [],
+                            "x": -70,
+                            "originY": 0.5,
+                            "text": "Harry",
+                            "fontSize": "35px",
+                            "fontStyle": "bold",
+                            "color": "#000"
+                        }
+                    ]
+                },
+                {
+                    "type": "Container",
+                    "id": "a594e916-58ed-472b-a3fc-4f8a62db2fda",
+                    "label": "LeftText",
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": -160,
+                    "visible": false,
+                    "list": [
+                        {
+                            "type": "Image",
+                            "id": "c9a704a3-5d12-411a-9982-05b7fd859fb2",
+                            "label": "nameL",
+                            "components": [],
+                            "texture": {
+                                "key": "Name"
+                            }
+                        },
+                        {
+                            "type": "Text",
+                            "id": "d048f41e-752c-42af-9b8d-1675fb52b5ee",
+                            "label": "textL",
+                            "scope": "CLASS",
+                            "components": [],
+                            "x": 75,
+                            "originX": 1,
+                            "originY": 0.5,
+                            "text": "Harry",
+                            "align": "right",
+                            "fontSize": "35px",
+                            "fontStyle": "bold",
+                            "color": "#000"
+                        }
+                    ]
+                },
+                {
+                    "type": "Image",
+                    "id": "b2268005-c69a-4d24-861b-019058be1383",
+                    "label": "profile",
+                    "components": [],
+                    "texture": {
+                        "key": "Profile"
+                    },
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "type": "Image",
+                    "id": "ff6c91d9-9f94-42c3-93e9-2a9f491e98d4",
+                    "label": "user",
+                    "components": [],
+                    "texture": {
+                        "key": "user"
+                    },
+                    "scaleX": 0.3061,
+                    "scaleY": 0.3061
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/Background.png",
+                "type": "image",
+                "key": "Background"
+            },
+            {
+                "url": "assets/Board.png",
+                "type": "image",
+                "key": "Board"
+            },
+            {
+                "url": "src/prefabs/Coin.js",
+                "type": "script",
+                "key": "Coin"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "assets/exit.png",
+                "type": "image",
+                "key": "exit"
+            },
+            {
+                "url": "src/scripts/GridManager.js",
+                "type": "script",
+                "key": "GridManager"
+            },
+            {
+                "url": "assets/Name.png",
+                "type": "image",
+                "key": "Name"
+            },
+            {
+                "url": "src/prefabs/PlacePoint.js",
+                "type": "script",
+                "key": "PlacePoint"
+            },
+            {
+                "url": "assets/popup.png",
+                "type": "image",
+                "key": "popup"
+            },
+            {
+                "url": "assets/Profile.png",
+                "type": "image",
+                "key": "Profile"
+            },
+            {
+                "url": "assets/Red.png",
+                "type": "image",
+                "key": "Red"
+            },
+            {
+                "url": "assets/restart.png",
+                "type": "image",
+                "key": "restart"
+            },
+            {
+                "url": "assets/user.png",
+                "type": "image",
+                "key": "user"
+            },
+            {
+                "url": "src/prefabs/UserProfile.js",
+                "type": "script",
+                "key": "UserProfile"
+            },
+            {
+                "url": "assets/Yellow.png",
+                "type": "image",
+                "key": "Yellow"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
